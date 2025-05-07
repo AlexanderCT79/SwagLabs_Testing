@@ -15,7 +15,7 @@ It is required to have installed the following applications and :
 1. Open Git Bash application
 2. Navigate to desired folder with command "cd"
 3. Write the following command and press Enter
-git clone https://github.com/yourusername/yourproject.git
+git clone https://github.com/AlexanderCT79/SwagLabs_Testing.git
 
 # Set up repository on Pycharm
 1. Open Pycharm application
